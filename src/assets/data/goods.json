@@ -1,0 +1,12 @@
+[
+	{
+		"name":"一号男装",
+		"price":"56.00",
+		"cloth":{
+			"backgroundImage":"url(src/assets/images/goodspic2.png)",
+			"backgroundSize":"cover"
+			},
+		"oldprice":"80.00"				
+	}
+	
+]

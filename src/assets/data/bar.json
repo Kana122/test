@@ -1,0 +1,46 @@
+[
+{
+    			"name":"first",
+    			"title":"首页",
+    			"img":{
+    				"backgroundImage":"url(src/assets/images/upload_index.png",
+    				"backgroundRepeat":"no-repeat",
+    				"backgroundSize":"100% 100%",
+    				"backgroundPosition":"center"
+    				
+    			}
+    		},
+    		{
+    			"name":"classify",
+    			"title":"分类",
+    			"img":{
+    				"background":"url(src/assets/images/classify_34x34.png",
+    				"backgroundRepeat":"no-repeat",
+    				"backgroundSize":"100% 100%",
+    				"backgroundPosition":"center"
+    				
+    			}
+    		},
+    		{
+    			"name":"car",
+    			"title":"购物车",
+    			"img":{
+    				"background":"url(src/assets/images/car_40x38.png",
+    				"backgroundRepeat":"no-repeat",
+    				"backgroundSize":"100% 100%",
+    				"backgroundPosition":"center"
+    				
+    			}
+    		},
+    		{
+    			"name":"my",
+    			"title":"我的",
+    			"img":{
+    				"background":"url(src/assets/images/my_38x38.png",
+    				"backgroundRepeat":"no-repeat",
+    				"backgroundSize":"100% 100%",
+    				"backgroundPosition":"center"
+    				
+    			}
+    		}
+]
